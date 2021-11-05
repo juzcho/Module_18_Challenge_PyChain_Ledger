@@ -1,4 +1,4 @@
-# Module 18 Challenge: PyChain Ledger
+# PyChain Ledger with Streamlit
 
 ## Table of Contents
 
